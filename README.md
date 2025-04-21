@@ -30,4 +30,4 @@ I contribute to a lot of open source projects, including:
 
 I also audit software together with my colleagues and you can see a subset of vulns disclosed to GitHub projects [here](https://github.com/advisories?query=credit%3ADavidKorczynski) and [here](https://github.com/advisories?query=credit%3AAdamKorcz).
 
-I'm always open for interesting projects and if you'd like to work together in a professional context please reach out to me by my listed email or via Ada Logic's contact [here](https://adalogics.com/contact).
+Reach out if you have software security research and development needs or auditing projects. I'm always open for interesting projects and if you'd like to work together in a professional context please get in contact via my listed email or via Ada Logic's contact [here](https://adalogics.com/contact).
